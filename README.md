@@ -1,6 +1,6 @@
-# Notes app API
+# Simple CRUD API / Note manager app 
 
-Build a Restful CRUD API for a Note-Taking app using Node.js, Express and MongoDB.
+A Restful CRUD API for a Note-manager app using Node.js, Express and MongoDB. This project was built during learning node and mongo, and may contain inefficent code. :)
 
 ## Setup
 
@@ -16,5 +16,5 @@ npm install
 node server.js
 ```
 
-You can browse the apis at <http://localhost:3000>
-
+Then, you can browse the apis at <http://localhost:3000>
+:)
